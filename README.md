@@ -2,5 +2,5 @@
 
 ## Login Credentials
 
-Email : laura@chinookcorp.com
-Password : sifra1
+**Email** : laura@chinookcorp.com <br>
+**Password** : sifra1
